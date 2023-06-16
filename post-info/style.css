@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    background-color: cadetblue;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.titlePosts{
+    background-color: cadetblue;
+    text-align: center;
+    margin: 0;
+}
